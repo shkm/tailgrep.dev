@@ -147,3 +147,13 @@ footer {
 .legal {
   font-size: x-small;
 }
+
+.notice {
+  background-color: #b22222;
+  border-radius: 3px;
+  padding-left: 1rem;
+  padding-top: 1rem;
+  padding-right: 1rem;
+  margin-bottom: 3rem;
+  overflow: hidden;
+}
